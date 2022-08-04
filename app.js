@@ -1,8 +1,8 @@
 // initialize github class
-const github = new Github();
+const github = new Github;
 
 // initialize ui class
-const ui = new UI();
+const ui = new UI;
 
 // search input
 const searchUser = document.getElementById("searchUser");
